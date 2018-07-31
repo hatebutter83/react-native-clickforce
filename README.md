@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 # react-native-clickforce
 
@@ -44,7 +43,3 @@ import RNClickforce from 'react-native-clickforce';
 RNClickforce;
 ```
   
-=======
-# react-native-clickforce
-React Native module for Clickforce SDK
->>>>>>> de9cc62d9e6f3cea6694df053075b17f770fc91c
